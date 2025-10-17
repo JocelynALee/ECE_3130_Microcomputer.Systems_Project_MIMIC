@@ -1,5 +1,7 @@
 # MIMIC – Memory Game  
 **ECE 3130: Microcomputer Systems | Spring 2025**
+### 🎥 Demo
+Watch a demo of the project here: [MIMIC Memory Game Demonstration](https://youtu.be/KwVrnDVoK-k)
 
 ## Overview
 **MIMIC** is an interactive memory game programmed in **C** for an **STM32 NUCLEO board**.  
