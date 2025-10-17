@@ -1,6 +1,6 @@
 # MIMIC – Memory Game  
 **ECE 3130: Microcomputer Systems | Spring 2025**
-### 🎥 Demo
+### Demonstration
 Watch a demo of the project here: [MIMIC Memory Game Demonstration](https://youtu.be/KwVrnDVoK-k)
 
 ## Overview
